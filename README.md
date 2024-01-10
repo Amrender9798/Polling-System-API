@@ -6,12 +6,15 @@ Polling System API
 https://polling-system-api-5khw.onrender.com
 
 📐Installation
+
 1)Download Zip and Extract it and then run following commands in directory
 
 2)Install my-project by running below command in console
+
 npm install
 
 4)execute below command to run the server on localhost
+
 npm start
 
 Available Routes:
